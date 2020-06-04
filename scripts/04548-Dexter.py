@@ -1,4 +1,4 @@
-internName = "Daniel Tobi Onipe"
+internName = "Daniel Onipe"
 
 internID = "HNG-04548"
 
